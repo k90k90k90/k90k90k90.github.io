@@ -1,0 +1,21 @@
+title: My Awesome Blog (Jekyll Version)
+author: Your Name
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my Jekyll-powered blog! Back to basics.
+baseurl: "" # the subpath of your site, e.g. /blog. For k90k90k90.github.io/, this should be empty.
+url: "https://k90k90k90.github.io" # Your site's base hostname and protocol.
+theme: minima
+
+# Minima specific settings (optional, but good for date formatting)
+minima:
+  date_format: "%b %-d, %Y"
+
+# Social links (optional)
+# github_username:  k90k90k90
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  # - jekyll-seo-tag # Minima includes SEO tags by default
