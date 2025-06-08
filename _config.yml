@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my Jekyll-powered blog! Back to basics.
 baseurl: "" # the subpath of your site, e.g. /blog. For k90k90k90.github.io/, this should be empty.
 url: "https://k90k90k90.github.io" # Your site's base hostname and protocol.
-theme: minima
+theme: jekyll-theme-merlot
 
 # Minima specific settings (optional, but good for date formatting)
 minima:
